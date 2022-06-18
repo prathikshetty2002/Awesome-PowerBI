@@ -1,3 +1,3 @@
 # Awesome-PowerBI
-![power bi banner](https://miro.medium.com/max/1400/1*NIyBHIp_iHaok5BmzCkSOA.jpeg)
+![power bi banner](https://www.crestwood.com/wp-content/uploads/2017/12/power-bi-banner.jpg)
 A repo containing a list of awesome power bi projects :)
